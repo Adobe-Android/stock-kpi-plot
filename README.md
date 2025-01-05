@@ -95,6 +95,8 @@ The program expects to read from an Excel file in the same directory as the Pyth
 ## Libraries
 
 * [matplotlib](https://matplotlib.org/)
+* [pandas](https://pandas.pydata.org/)
+* [openpyxl](https://openpyxl.readthedocs.io/en/stable/)
 
 ## References
 * https://realpython.com/python-virtual-environments-a-primer/
