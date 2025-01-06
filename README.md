@@ -63,7 +63,7 @@ python -m avgo_grouped_barchart_with_labels_from_excel
 
 ### Example
 
-![Stock Ticker UI](AVGO-Grouped-Revenue-Segments.png)
+![Broadcom Grouped Revenue Segments Bar Chart](images/AVGO-Grouped-Revenue-Segments.png)
 
 ### Run
 
@@ -73,7 +73,7 @@ python -m mrvl_grouped_barchart_with_labels_from_excel
 
 ### Example
 
-![Stock Ticker UI](MRVL-Grouped-Revenue-Segments.png)
+![Marvell Grouped Revenue Segments Bar Chart](images/MRVL-Grouped-Revenue-Segments.png)
 
 As you can see, this style of bar chart has issues when we try to display more data.
 In this case, I chose to switch to a stacked bar chart to resolve this issue.
@@ -86,7 +86,7 @@ python -m mrvl_stacked_barchart_with_labels_from_excel
 
 ### Example
 
-![Stock Ticker UI](MRVL-Stacked-Revenue-Segments.png)
+![Marvell Stacked Revenue Segments Bar Chart](images/MRVL-Stacked-Revenue-Segments.png)
 
 ### Additional Notes
 
